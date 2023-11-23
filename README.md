@@ -76,5 +76,4 @@ for (let i = 0; i < 10; i++) {
 ## Precautions
 
 - Some low-level memory controls, such as Group, are not implementable. So it cannot be expected to benefit from performance.
-- Hash table has not been implemented. The identity of the entity is managed by uuid.
-- In theory, when creating 3.15e+18 entities, the id of the entity can be duplicated with a 50% probability.
+- Hash table has not been implemented. The identity of the entity is managed by uuid. In theory, when creating 3.15e+18 entities, the id of the entity can be duplicated with a 50% probability.
