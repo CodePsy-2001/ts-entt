@@ -1,6 +1,6 @@
 # ts-entt
 
-`ts-entt` is a simple **typescript** mock for **[EnTT](https://github.com/skypjack/entt)**
+`ts-entt` is a simple **typescript** mock of **[EnTT](https://github.com/skypjack/entt)**
 
 ---
 
