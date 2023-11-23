@@ -1,0 +1,7 @@
+{
+  "version": "3",
+  "redirects": {
+    "https://deno.land/std/assert/mod.ts": "https://deno.land/std@0.207.0/assert/mod.ts"
+  },
+  "remote": {}
+}
